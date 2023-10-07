@@ -2,10 +2,10 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Documentación
+title: Evidencias
 
 nombres: Diego Alvarez
-submodulo: Nuevas Tecnologias
+submodulo: Nuevas Tecnologias De Programacion
 periodo: 2023-2
 url_foto: https://firebasestorage.googleapis.com/v0/b/crud-productos-2d1da.appspot.com/o/WhatsApp%20Image%202023-10-07%20at%2008.34.05.jpeg?alt=media&token=eca477f8-3d6a-499e-9b61-d94e2502739a
 
