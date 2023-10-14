@@ -4,7 +4,7 @@
 ## Sesión 11 
 [Actividad 11](https://colab.research.google.com/drive/1QYXe4k4EZHkqviBhMM4d6yIMD9D4nyy9?usp=sharing)
 <!-- Su documentación aquí -->
-```	
+```python	
 Actividad: Filtros en pandas (loc-iloc)
 import pandas as pd
 import numpy as np
